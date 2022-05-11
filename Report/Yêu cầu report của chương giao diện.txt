@@ -1,0 +1,3 @@
+Sơ đồ các form -> từ form nào đi tới form nào...
+Mô tả chi tiết chức năng các nút trên các form.
+Report có thể sử dụng thêm chart
