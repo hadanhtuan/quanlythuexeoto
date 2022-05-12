@@ -21,13 +21,13 @@ Chức năng
 	+ Button nhấn lấy lại mật khẩu, hệ thống trả về mật khẩu mới cho khách hàng. (button)
 
 Form Quản lý 
-	+ Form Quản lý xe (Bao gồm nút thêm xóa sửa xe) (3)
+	+ Form Quản lý xe (Bao gồm nút thêm xóa sửa xe) (3)(done)
 		-> Form thêm xe, bao gồm các texxtbox: (text field) BienSo, (text field) MoTa, (ComboBox) MALX, (ComboBox) TinhTrang, (button) nút submit. 
 		-> Form thêm loại xe: (text field) Tên Loại xe,(Spinner) số chỗ, (Spinner)số lượng,(text field) giá,(text field) giá tiền nếu chạy ngoài giờ, (button)nút submit.
-	+ Form quản lý tình trạng xe bao gồm:(text field) một trường nhập mã xe, (table) và một bảng xuất ra kết quả tìm được, (button) tìm xe. (bấm vào row nào thì sẽ gọi ra 		(3)				form chi tiết xe của xe đó, sẽ có combobox và button save, 2 elements này có visible mặc định là false và true khi role = admin)
+	+ Form quản lý tình trạng xe bao gồm( done):(text field) một trường nhập mã xe, (table) và một bảng xuất ra kết quả tìm được, (button) tìm xe. (bấm vào row nào thì sẽ gọi ra 		(3)				form chi tiết xe của xe đó, sẽ có combobox và button save, 2 elements này có visible mặc định là false và true khi role = admin)
 
 	+ Form report, xuất doanh thu ( Cái này cập nhật sau cùng) (X)
-	+ Form quản lý nhân viên - Tra cứu, thêm, xóa, sửa nhân viên(Liên hệ Tuấn Bảo để biết thêm thông tin chi tiết) (3)
+	+ Form quản lý nhân viên - Tra cứu, thêm, xóa, sửa nhân viên(Liên hệ Tuấn Bảo để biết thêm thông tin chi tiết) (3)(done)
 		+ Họ tên
 		+ Ngày sinh
 		+ Tên đăng nhập
@@ -43,7 +43,7 @@ Form Quản lý
 	
 	+ Form tra cứu hợp đồng, tra cứu hóa đơn (report) (X)
 		+ Một textbox chứa mã hóa đơn và nút submit.
-Form Khách hàng
+Form Khách hàng(chưa làm)
 	+ Form menu: button xem giỏ hàng, button xem lịch sử, jtable loại xe  (1)
 	+ Form chi tiết loại xe		(1)
 		mô tả loại xe, giá, số lượng còn lại, button thêm vào giỏ hàng
@@ -53,7 +53,7 @@ Form Khách hàng
 
 
 	
-Form Nhân Viên(liên hệ Bảo để biết thêm thông tin chi tiết)
+Form Nhân Viên(liên hệ Bảo để biết thêm thông tin chi tiết)(chưa làm)
 	+ Form menu:  (2)
 		table thông tin thuê xe khách hàng (bao gồm một bảng hiện ra thông tin khách hàng đã chọn xe thuê và nút cập nhật trạng thái đơn hàng khách hàng).
 		combobox tình trạng đơn hàng(để cho nhân viên cập nhật)
