@@ -1,11 +1,11 @@
 Chức năng
-- Form đăng nhập
+- Form đăng nhập (done)
 	+ Tên đăng nhập 
 	+ Mật khẩu
 	+ Quên mật khẩu
 	+ Nút đăng ký
 
-- Form đăng ký (Khách hàng)
+- Form đăng ký (Khách hàng) (done)
 	+ Họ tên (text field)
 	+ Ngày sinh (textfield)
 	+ Tên đăng nhập 
@@ -16,13 +16,13 @@ Chức năng
 	+ CCCD mặt trước (mở đường dẫn -> chọn ảnh)
 	+ CCCD mặt sau ( mở đường dẫn -> chọn ảnh)
 	+ Nút submit.
-- Form quên mật khẩu
+- Form quên mật khẩu (done)
 	+ Nhập email (text field)
 	+ Button nhấn lấy lại mật khẩu, hệ thống trả về mật khẩu mới cho khách hàng. (button)
 
-Form Quản lý
+Form Quản lý  (done)
 	+ Form Quản lý xe (Bao gồm nút thêm xóa sửa xe)
-		-> Form thêm xe, bao gồm các texxtbox: (text field) BienSo, (text field) MoTa, (ComboBox) TinhTrang, (button) nút submit.
+		-> Form thêm xe, bao gồm các texxtbox: (text field) BienSo, (text field) MoTa, (ComboBox) TinhTrang, (button) nút submit. 
 		-> Form thêm loại xe: (text field) Tên Loại xe,(Spinner) số chỗ, (Spinner)số lượng,(text field) giá,(text field) giá tiền nếu chạy ngoài giờ, (button)nút submit.
 	+ Form Tra cứu tình trạng xe bao gồm:(text field) một trường nhập mã xe, (table) và một bảng xuất ra kết quả tìm được, (button) tìm xe. 
 	+ Form tra cứu, sửa thông tin blacklist khách hàng. bao gồm:(text field) để nhập mã kh hoặc tên kh, một bảng để xuất ra giá trị vừa tìm	
