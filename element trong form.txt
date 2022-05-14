@@ -43,7 +43,7 @@ Form Quản lý
 	
 	+ Form tra cứu hợp đồng, tra cứu hóa đơn (report) (X)
 		+ Một textbox chứa mã hóa đơn và nút submit.
-Form Khách hàng(chưa làm)
+Form Khách hàng(done)
 	+ Form menu: button xem giỏ hàng, button xem lịch sử, jtable loại xe  (1)
 	+ Form chi tiết loại xe		(1)
 		mô tả loại xe, giá, số lượng còn lại, button thêm vào giỏ hàng
