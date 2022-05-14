@@ -49,13 +49,17 @@ Form Khách hàng(chưa làm)
 		mô tả loại xe, giá, số lượng còn lại, button thêm vào giỏ hàng
 
 	+ Form xem lịch sử đơn hàng: jtable đơn hàng  (X)
-	+ Form kiểu như giỏ hàng, vì mình cho phép thuê nhiều xe, một hãng xe nhiều số lượng, có thể thuê nhiều hãng xe... -> Có nút thanh toán. (1)
+	+ Form kiểu giỏ hàng: Tức là ở đây có một table (chứa thông tin - cái này t làm), và 2 nút, nút XÓA và nút Submit. Có vài cái Label cho đẹp.
 
 
 	
 Form Nhân Viên(liên hệ Bảo để biết thêm thông tin chi tiết)(chưa làm)
 	+ Form menu:  (2)
-		table thông tin thuê xe khách hàng (bao gồm một bảng hiện ra thông tin khách hàng đã chọn xe thuê và nút cập nhật trạng thái đơn hàng khách hàng).
-		combobox tình trạng đơn hàng(để cho nhân viên cập nhật)
+		+ Một JTable (thông tin thuê xe khách hàng bao gồm một bảng hiện ra thông tin khách hàng đã chọn xe thuê và nút cập nhật trạng thái đơn hàng khách hàng).
+		+ Một Combobox để chỉnh sửa thông tin tình trạng hóa đơn của khách hàng. 
+			- Tình trạng bao gồm:
+				+ Xác Nhận
+				+ Hủy Bỏ
+		+ Một nút submit.
 		
 	
