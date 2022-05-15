@@ -22,9 +22,9 @@ Chức năng
 
 Form Quản lý 
 	+ Form Quản lý xe (Bao gồm nút thêm xóa sửa xe) (3)(done)
-		-> Form thêm xe, bao gồm các texxtbox: (text field) BienSo, (text field) MoTa, (ComboBox) MALX, (ComboBox) TinhTrang, (button) nút submit. 
+		-> Form thêm xe, bao gồm các texxtbox: (text field) BienSo, (text field) MoTa, (ComboBox) MALX, (ComboBox) TinhTrang, (button) nút submit. //Form thêm xe hơi conflict, là chắc bỏ combobox tình trạng, procedure tự động set tình trạng là mở, khi nào được thuê thì procedure tự set tình trạng thành đã thuê.
 		-> Form thêm loại xe: (text field) Tên Loại xe,(Spinner) số chỗ, (Spinner)số lượng,(text field) giá,(text field) giá tiền nếu chạy ngoài giờ, (button)nút submit.
-	+ Form quản lý tình trạng xe bao gồm( done):(text field) một trường nhập mã xe, (table) và một bảng xuất ra kết quả tìm được, (button) tìm xe. (bấm vào row nào thì sẽ gọi ra 		(3)				form chi tiết xe của xe đó, sẽ có combobox và button save, 2 elements này có visible mặc định là false và true khi role = admin)
+	+ Form quản lý tình trạng xe bao gồm( done):(text field) một trường nhập mã xe, (table) và một bảng xuất ra kết quả tìm được, (button) tìm xe.(3) (bấm vào row nào thì sẽ gọi ra form chi tiết xe của xe đó, sẽ có combobox và button save, 2 elements này có visible mặc định là false và true khi role = admin)
 
 	+ Form report, xuất doanh thu ( Cái này cập nhật sau cùng) (X)
 	+ Form quản lý nhân viên - Tra cứu, thêm, xóa, sửa nhân viên(Liên hệ Tuấn Bảo để biết thêm thông tin chi tiết) (3)(done)
@@ -40,7 +40,7 @@ Form Quản lý
 		+ Nút submit.
 		
 		demo: https://res.cloudinary.com/dhshtvtrl/image/upload/v1652363784/Untitled_fbk22v.png
-	
+	//Ở đây, thêm nhân viên sẽ hiện ra form mới, gồm các thông tin cần nhập ở trên, còn sửa thì sẽ có một table, một combobox để xử lý tình trạng làm việc, một nút lưu để lưu lại tình trạng là còn làm việc hay đã nghỉ, vì mã nhân viên là khóa ngoại của một số bảng quan trọng nên không thể xóa đươc.
 	+ Form tra cứu hợp đồng, tra cứu hóa đơn (report) (X)
 		+ Một textbox chứa mã hóa đơn và nút submit.
 Form Khách hàng(done)
