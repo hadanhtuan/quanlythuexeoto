@@ -50,6 +50,7 @@ Form Khách hàng(done)
 
 	+ Form xem lịch sử đơn hàng: jtable đơn hàng  (X)
 	+ Form kiểu giỏ hàng: Tức là ở đây có một table (chứa thông tin - cái này t làm), và 2 nút, nút XÓA và nút Submit. Có vài cái Label cho đẹp.
+			   New update // Trong form giỏ hàng sẽ có ngày bắt nhận xe và ngày trả xe.
 
 
 	
