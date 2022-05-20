@@ -63,6 +63,8 @@ Form Nhân Viên(liên hệ Bảo để biết thêm thông tin chi tiết)(chư
 				+ Hủy Bỏ
 		+ Một nút submit.
 		
- New update // Trong form giỏ hàng sẽ có ngày bắt nhận xe và ngày trả xe.
- 	    // Thêm button "Thêm ảnh" trong chỗ thêm xe.
+Need update // Trong form giỏ hàng sẽ có ngày bắt nhận xe và ngày trả xe.
+ 	    // Thêm button "Thêm ảnh" trong chỗ thêm loại xe. - Gồm 2 button 
+	    		- Thêm ảnh nội thất
+			- Thêm ảnh bề ngoài
 	
