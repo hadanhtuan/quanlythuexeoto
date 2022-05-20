@@ -63,8 +63,12 @@ Form Nhân Viên(liên hệ Bảo để biết thêm thông tin chi tiết)(chư
 				+ Hủy Bỏ
 		+ Một nút submit.
 		
-Need update // Trong form giỏ hàng sẽ có ngày bắt nhận xe và ngày trả xe.
- 	    // Thêm button "Thêm ảnh" trong chỗ thêm loại xe. - Gồm 2 button 
+Need update GUI // Trong form giỏ hàng sẽ có ngày bắt nhận xe và ngày trả xe.
+ 	    	// Thêm button "Thêm ảnh" trong chỗ thêm loại xe. - Gồm 2 button 
 	    		- Thêm ảnh nội thất
 			- Thêm ảnh bề ngoài
+Need update Database 
+		// Khi xóa nhân viên - khách hàng sẽ ảnh hưởng tới rất nhiều thứ vì nhiều bảng có link khóa ngoại tới. 
+		Hmmm với nhân viên mình có thể thay đổi tình trạng thành đã nghỉ việc, còn khách hàng thì không có tình trạng... chắc cần một procedure để tự tăng blacklist>3 (ý tưởng tạm thời)
+	
 	
