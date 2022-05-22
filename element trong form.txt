@@ -67,6 +67,7 @@ Need update GUI // Trong form giỏ hàng sẽ có ngày bắt nhận xe và ng�
  	    	// Thêm button "Thêm ảnh" trong chỗ thêm loại xe. - Gồm 2 button 
 	    		- Thêm ảnh nội thất
 			- Thêm ảnh bề ngoài
+		// Cập nhật bảng quản lý xe & loại xe, 2 bảng chèn vào dữ liệu bị xấu -> giải pháp: một là tạo 2 form mới hoặc tăng kích thước bề ngang của form
 Need update Database 
 		// Khi xóa nhân viên - khách hàng sẽ ảnh hưởng tới rất nhiều thứ vì nhiều bảng có link khóa ngoại tới. 
 		Hmmm với nhân viên mình có thể thay đổi tình trạng thành đã nghỉ việc, còn khách hàng thì không có tình trạng... chắc cần một procedure để tự tăng blacklist>3 (ý tưởng tạm thời)
