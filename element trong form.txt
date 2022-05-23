@@ -72,4 +72,8 @@ Need update Database
 		// Khi xóa nhân viên - khách hàng sẽ ảnh hưởng tới rất nhiều thứ vì nhiều bảng có link khóa ngoại tới. 
 		Hmmm với nhân viên mình có thể thay đổi tình trạng thành đã nghỉ việc, còn khách hàng thì không có tình trạng... chắc cần một procedure để tự tăng blacklist>3 (ý tưởng tạm thời)
 	
+Form thông tin thuê xe: clear bảng khi bấm nút thuê xe, thêm messagebox xác nhân thuê xe khi bấm nút thuê xe 
+Form danh sách xe:	
+	+
+				
 	
