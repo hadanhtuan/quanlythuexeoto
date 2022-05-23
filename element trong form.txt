@@ -63,7 +63,7 @@ Form Nhân Viên(liên hệ Bảo để biết thêm thông tin chi tiết)(chư
 				+ Hủy Bỏ
 		+ Một nút submit.
 		
-Need update GUI // Trong form giỏ hàng sẽ có ngày bắt nhận xe và ngày trả xe.
+Need update GUI // Trong form giỏ hàng sẽ có thêm ngày bắt nhận xe và ngày trả xe. ( Thêm 2 JDateChooser )
  	    	// Thêm button "Thêm ảnh" trong chỗ thêm loại xe. - Gồm 2 button 
 	    		- Thêm ảnh nội thất
 			- Thêm ảnh bề ngoài
