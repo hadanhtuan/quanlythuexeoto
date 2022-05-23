@@ -74,6 +74,16 @@ Need update Database
 		//Chỗ Quản lý xe, bỏ nút xóa xe thay vào đó sẽ là Combobox thay đổi tình trạng của XE
 		//Chỗ Quản lý xe, bỏ nút xóa và sửa loại xe.
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 Form thông tin thuê xe: clear bảng khi bấm nút thuê xe, thêm messagebox xác nhân thuê xe khi bấm nút thuê xe 
 Form danh sách xe:	
 	+
