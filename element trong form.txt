@@ -71,6 +71,8 @@ Need update GUI // Trong form giỏ hàng sẽ có ngày bắt nhận xe và ng�
 Need update Database 
 		// Khi xóa nhân viên - khách hàng sẽ ảnh hưởng tới rất nhiều thứ vì nhiều bảng có link khóa ngoại tới. Nên nhân viên mình thay đổi nút Xóa thành nút Combobox gồm 3 thành phần - Thay đổi Tình trạng, DANG LAM, DA NGHI 
 		//chắc cần một procedure để tự tăng blacklist>3 (ý tưởng tạm thời)
+		//Chỗ Quản lý xe, bỏ nút xóa xe thay vào đó sẽ là Combobox thay đổi tình trạng của XE
+		//Chỗ Quản lý xe, bỏ nút xóa và sửa loại xe.
 	
 Form thông tin thuê xe: clear bảng khi bấm nút thuê xe, thêm messagebox xác nhân thuê xe khi bấm nút thuê xe 
 Form danh sách xe:	
