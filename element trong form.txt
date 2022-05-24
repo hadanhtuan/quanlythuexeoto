@@ -73,7 +73,12 @@ Need update Database
 		//chắc cần một procedure để tự tăng blacklist>3 (ý tưởng tạm thời)
 		//Chỗ Quản lý xe, bỏ nút xóa xe thay vào đó sẽ là Combobox thay đổi tình trạng của XE
 		//Chỗ Quản lý xe, bỏ nút xóa và sửa loại xe.
-	
+		Thêm một chức năng cho nhân viên //Form Tạo hợp đồng
+	- Gồm các textField
+		số hợp đồng, Trả sau, phí phát sinh, lý do, ngày nhận xe, ngày trả xe
+		Một nút submit.
+
+
 	
 	
 	
