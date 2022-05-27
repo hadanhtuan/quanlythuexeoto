@@ -77,18 +77,9 @@ Need update Database
 	- Gồm các textField
 		số hợp đồng, Trả sau, phí phát sinh, lý do, ngày nhận xe, ngày trả xe
 		Một nút submit.
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+//Còn thiếu:
+	- CSDL phân tán
+	- Deadlock database.
 Form thông tin thuê xe: clear bảng khi bấm nút thuê xe, thêm messagebox xác nhân thuê xe khi bấm nút thuê xe 
 Form danh sách xe:	
 	+
