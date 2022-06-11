@@ -6,7 +6,7 @@ Quản Lý Xe
 Quản Lý Loại Xe
 	- Hiển Thị Loại Xe //done
 	- Tìm Kiếm Loại Xe // done
-	- Thêm Loại Xe  
+	- Thêm Loại Xe  //Done
 	- Cập nhật Loại xe //done
 Quản Lý Nhân Viên
 	- Hiển Thị Nhân Viên
