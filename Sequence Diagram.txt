@@ -1,0 +1,31 @@
+Quản Lý Xe
+	- Hiển Thị Xe
+	- Tìm Kiếm Xe
+	- Thêm Xe
+	- Cập nhật xe
+Quản Lý Loại Xe
+	- Hiển Thị Loại Xe
+	- Tìm Kiếm Loại Xe
+	- Thêm Loại Xe
+	- Cập nhật Loại xe
+Quản Lý Nhân Viên
+	- Hiển Thị Nhân Viên
+	- Tìm Kiếm Nhân Viên
+	- Thêm Nhân Viên
+	- Cập nhật nhân viên
+Quản Lý Khách Hàng
+	- Hiển Thị Khách hàng
+	- Tìm Kiếm Khách Hàng
+	- Đăng ký khách hàng
+	- Cập nhật khách hàng
+Đăng Nhập
+Quản Lý Đơn Đặt Xe
+	- Thêm Đơn đặt
+	- Cập nhật tình trạng đơn đặt
+	- Tạo hợp đồng
+	- Lập hóa đơn
+Báo cáo doanh thu
+Báo cáo chi tiết đơn đặt
+Báo cáo Hóa đơn
+
+
