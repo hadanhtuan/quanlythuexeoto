@@ -6,8 +6,8 @@ Quản Lý Xe
 Quản Lý Loại Xe
 	- Hiển Thị Loại Xe //done
 	- Tìm Kiếm Loại Xe // done
-	- Thêm Loại Xe
-	- Cập nhật Loại xe
+	- Thêm Loại Xe  
+	- Cập nhật Loại xe //done
 Quản Lý Nhân Viên
 	- Hiển Thị Nhân Viên
 	- Tìm Kiếm Nhân Viên
