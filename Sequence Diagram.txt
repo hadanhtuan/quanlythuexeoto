@@ -9,7 +9,7 @@ Quản Lý Loại Xe
 	- Thêm Loại Xe  //Done
 	- Cập nhật Loại xe //done
 Quản Lý Nhân Viên
-	- Hiển Thị Nhân Viên
+	- Hiển Thị Nhân Viên //Done
 	- Tìm Kiếm Nhân Viên
 	- Thêm Nhân Viên
 	- Cập nhật nhân viên
