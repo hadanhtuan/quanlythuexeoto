@@ -1,11 +1,11 @@
 Quản Lý Xe
 	- Hiển Thị Xe //Done
-	- Tìm Kiếm Xe
-	- Thêm Xe
+	- Tìm Kiếm Xe  // done
+	- Thêm Xe //done
 	- Cập nhật xe//Done
 Quản Lý Loại Xe
 	- Hiển Thị Loại Xe //done
-	- Tìm Kiếm Loại Xe
+	- Tìm Kiếm Loại Xe // done
 	- Thêm Loại Xe
 	- Cập nhật Loại xe
 Quản Lý Nhân Viên
