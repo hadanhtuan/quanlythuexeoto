@@ -11,7 +11,7 @@ Quản Lý Loại Xe
 Quản Lý Nhân Viên
 	- Hiển Thị Nhân Viên //Done
 	- Tìm Kiếm Nhân Viên //Done
-	- Thêm Nhân Viên
+	- Thêm Nhân Viên //Done
 	- Cập nhật nhân viên
 Quản Lý Khách Hàng
 	- Hiển Thị Khách hàng //done
