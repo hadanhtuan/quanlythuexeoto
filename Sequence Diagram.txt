@@ -14,7 +14,7 @@ Quản Lý Nhân Viên
 	- Thêm Nhân Viên
 	- Cập nhật nhân viên
 Quản Lý Khách Hàng
-	- Hiển Thị Khách hàng
+	- Hiển Thị Khách hàng //done
 	- Tìm Kiếm Khách Hàng
 	- Đăng ký khách hàng
 	- Cập nhật khách hàng
@@ -24,6 +24,7 @@ Quản Lý Đơn Đặt Xe
 	- Cập nhật tình trạng đơn đặt
 	- Tạo hợp đồng
 	- Lập hóa đơn
+	- tạo blacklist
 Báo cáo doanh thu
 Báo cáo chi tiết đơn đặt
 Báo cáo Hóa đơn
