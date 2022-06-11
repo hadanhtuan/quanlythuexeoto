@@ -16,9 +16,10 @@ Quản Lý Nhân Viên
 Quản Lý Khách Hàng
 	- Hiển Thị Khách hàng //done
 	- Tìm Kiếm Khách Hàng
-	- Đăng ký khách hàng
 	- Cập nhật khách hàng
 Đăng Nhập  // done
+Đăng ký khách hàng
+
 Quản Lý Đơn Đặt Xe
 	- Thêm Đơn đặt - Actor: Khách hàng
 	- Cập nhật tình trạng đơn đặt
