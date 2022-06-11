@@ -4,7 +4,7 @@ Quản Lý Xe
 	- Thêm Xe
 	- Cập nhật xe
 Quản Lý Loại Xe
-	- Hiển Thị Loại Xe
+	- Hiển Thị Loại Xe //done
 	- Tìm Kiếm Loại Xe
 	- Thêm Loại Xe
 	- Cập nhật Loại xe
