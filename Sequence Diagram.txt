@@ -24,7 +24,7 @@ Quản Lý Đơn Đặt Xe
 	- Thêm Đơn đặt - Actor: Khách hàng
 	- Cập nhật tình trạng đơn đặt  //done
 	- Lập hóa đơn
-	- tạo blacklist
+	- tạo blacklist // done
 Báo cáo doanh thu
 Báo cáo chi tiết đơn đặt
 Báo cáo Hóa đơn
