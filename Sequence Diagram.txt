@@ -12,13 +12,13 @@ Quản Lý Nhân Viên
 	- Hiển Thị Nhân Viên //Done
 	- Tìm Kiếm Nhân Viên //Done
 	- Thêm Nhân Viên //Done
-	- Cập nhật nhân viên
+	- Cập nhật nhân viên  //done
 Quản Lý Khách Hàng
 	- Hiển Thị Khách hàng //done
-	- Tìm Kiếm Khách Hàng
+	- Tìm Kiếm Khách Hàng // done
 	- Cập nhật khách hàng
 Đăng Nhập  // done
-Đăng ký khách hàng
+Đăng ký khách hàng  // done
 
 Quản Lý Đơn Đặt Xe
 	- Thêm Đơn đặt - Actor: Khách hàng
