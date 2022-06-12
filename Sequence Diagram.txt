@@ -25,9 +25,9 @@ Quản Lý Đơn Đặt Xe
 	- Cập nhật tình trạng đơn đặt  //done
 	- Lập hóa đơn
 	- tạo blacklist // done
-Báo cáo doanh thu
-Báo cáo chi tiết đơn đặt
-Báo cáo Hóa đơn
+Báo cáo doanh thu // Done
+Báo cáo chi tiết đơn đặt // Done
+Báo cáo Hóa đơn// Done
 
 
 
