@@ -16,7 +16,7 @@ Quản Lý Nhân Viên
 Quản Lý Khách Hàng
 	- Hiển Thị Khách hàng //done
 	- Tìm Kiếm Khách Hàng // done
-	- Cập nhật khách hàng
+	- Cập nhật khách hàng // done
 Đăng Nhập  // done
 Đăng ký khách hàng  // done
 
