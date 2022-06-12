@@ -22,7 +22,7 @@ Quản Lý Khách Hàng
 
 Quản Lý Đơn Đặt Xe
 	- Thêm Đơn đặt - Actor: Khách hàng
-	- Cập nhật tình trạng đơn đặt
+	- Cập nhật tình trạng đơn đặt  //done
 	- Tạo hợp đồng
 	- Lập hóa đơn
 	- tạo blacklist
